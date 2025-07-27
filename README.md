@@ -27,15 +27,8 @@ After `cloning` the assignment you should make two commits:
 
 > Important: Provide the **name** information requested below in the cloned repo and provide the **date** information requested below through GitHub directly:
 
----
-
-<<<<<<< HEAD
-Your name: Xu Ha Date: <insert-the-date-here>
-=======
 Your name: Xu Ha Date: 07-28-2025
->>>>>>> 887f9edb2489fecc58e51961ea093f0da9b1be44
 
----
 
 If you have any problems with this practice assignment, take screenshots and post them to <https://piazza.com/ucsd/summer2025/rady499>.
 
